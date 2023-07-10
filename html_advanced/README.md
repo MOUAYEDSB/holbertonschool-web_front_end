@@ -1,6 +1,6 @@
 ## Advanced HTML 🧠
 
-![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230710%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230710T165240Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d0c32b93f2721745ce8e35ba018b2892374b916455955529260a968e89d7dea4)
+![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230710%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230710T165240Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e51417d26a7e992546a44d586eb3878c987454d585767f251c726971b5551a17)
 
  # Description💬
  - Advanced HTML refers to the utilization of advanced techniques and features in HTML (Hypertext Markup Language) to enhance the functionality, interactivity, and user experience of web pages.
