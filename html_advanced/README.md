@@ -1,6 +1,6 @@
 ## Advanced HTML 🧠
 
-![App Screenshot](https://play-lh.googleusercontent.com/MPDzYIvnXkFgILeyVYa1ZrBhWrQI6voJQ83R3TGhUvU4jjcV3ClQVlhuWDucmSkSwqc))
+![App Screenshot](https://play-lh.googleusercontent.com/MPDzYIvnXkFgILeyVYa1ZrBhWrQI6voJQ83R3TGhUvU4jjcV3ClQVlhuWDucmSkSwqc)
 
  # Description💬
  - Advanced HTML refers to the utilization of advanced techniques and features in HTML (Hypertext Markup Language) to enhance the functionality, interactivity, and user experience of web pages.
