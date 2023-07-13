@@ -1,6 +1,6 @@
-## Python - Test-driven development
+## Advanced CSS 💻
 
-![App Screenshot](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/12/ce6718f1b55e6c1580c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230713%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230713T125943Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6c08939d67432a7f66f38516c826b2b1b28486604638226fba8a5c3b44c43a57)
+![App Screenshot](https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo)
 
 # Description 💬
 - Advanced CSS, also known as Cascading Style Sheets, refers to the more complex and sophisticated techniques and features used to style and enhance the appearance of web pages beyond basic CSS concepts. While basic CSS focuses on simple styling and layout, advanced CSS delves into more intricate design elements and interactivity.
