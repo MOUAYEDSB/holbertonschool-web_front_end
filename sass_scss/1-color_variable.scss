@@ -1,5 +1,9 @@
-$main-text-color: #3D3D3D;
+$myColor: #3D3D3D;
 
-body, p {
-  color: $main-text-color;
+body {
+  color: $myColor;
+}
+
+p {
+  color: $myColor;
 }
