@@ -1,5 +1,8 @@
 # Accessibility Project
 
+
+![App Screenshot](https://cdn-images-1.medium.com/max/632/1*HnSxmR5WbFCD98wXgUe3EA.png)
+
 ## Overview
 
 This project aims to improve the accessibility of our website/application to ensure it is usable by individuals with disabilities. Accessibility is crucial for providing an inclusive and user-friendly experience for all users, regardless of their abilities.
