@@ -23,3 +23,4 @@ function createClassRoom(numberOfStudents) {
   
   // Create a closure classRoom, calling createClassRoom with 10 students
   var classRoom = createClassRoom(10);
+  
